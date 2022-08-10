@@ -22,14 +22,14 @@ A sock.js and STOMP.js web chat app.
 
 #### Create and run container on port 8080
 
-```http
+```
     docker run --name spring-boot-websocket-app -p 8080:8080 spring-boot-websocket-app
 ```
 
 
 ## Maven usage
 Alternatively, the app can be run with maven:
-```http
+```
     ./mvnw spring-boot:run
 ```
 
