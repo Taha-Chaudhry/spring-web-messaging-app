@@ -16,7 +16,7 @@ A sock.js and STOMP.js web chat app.
 
 #### Build the image
 
-```http
+```
     docker image build -t spring-boot-websocket-app .
 ```
 
