@@ -7,7 +7,6 @@ A sock.js and STOMP.js web chat app.
 - [Spring](https://spring.io) (**duh**): Java framework
 - [SockJS](https://github.com/sockjs/sockjs-client): Websocket API
 - [STOMP.js](https://github.com/stomp-js/stompjs): Websocket Client
-- [Keycloak](https://www.keycloak.org): Used with spring security for account management
 
 
 
