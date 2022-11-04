@@ -32,8 +32,11 @@ Alternatively, the app can be run with maven:
     ./mvnw spring-boot:run
 ```
 
-## Spring Actuator Usage
-Still in development
 ## References
 
 Tutorial for WebSockets with Spring by [callicoder](https://www.callicoder.com/spring-boot-websocket-chat-example/)
+
+## TODO
+• Grafana/Prometheus monitoring support
+• Spring actuator usage
+• Kubernetes support
