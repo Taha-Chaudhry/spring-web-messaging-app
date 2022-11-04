@@ -38,5 +38,5 @@ Tutorial for WebSockets with Spring by [callicoder](https://www.callicoder.com/s
 
 ## TODO
 - Grafana/Prometheus monitoring support
-- Spring actuator usage
+- Spring actuator usage
 - Kubernetes support
