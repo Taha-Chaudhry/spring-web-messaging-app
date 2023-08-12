@@ -8,6 +8,9 @@ A sock.js and STOMP.js web chat app.
 - [SockJS](https://github.com/sockjs/sockjs-client): Websocket API
 - [STOMP.js](https://github.com/stomp-js/stompjs): Websocket Client
 
+## Preview
+
+<img width="583" alt="Screenshot 2023-08-12 at 10 41 00 AM" src="https://github.com/Taha-Chaudhry/spring-web-messaging-app/assets/46199675/ae8854fa-574d-497c-bb80-e3c823a3821b">
 
 
 
