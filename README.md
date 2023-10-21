@@ -4,7 +4,8 @@
 A sock.js and STOMP.js web chat app.
 ## Powered by
 
-- [Spring](https://spring.io) (**duh**): Java framework
+- [Spring](https://spring.io): Java framework
+- [SpringSecurity](https://spring.io/projects/spring-security): User authentication backend
 - [SockJS](https://github.com/sockjs/sockjs-client): Websocket API
 - [STOMP.js](https://github.com/stomp-js/stompjs): Websocket Client
 
