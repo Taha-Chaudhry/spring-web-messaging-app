@@ -14,6 +14,7 @@ A sock.js and STOMP.js web chat app.
 - Password: password
 
 ## Preview
+<img width="485" alt="Screenshot 2023-10-22 at 11 37 32 PM" src="https://github.com/Taha-Chaudhry/spring-web-messaging-app/assets/46199675/35047305-6363-492c-b5ad-43c60ca07cc3">
 
 <img width="583" alt="Screenshot 2023-08-12 at 10 41 00 AM" src="https://github.com/Taha-Chaudhry/spring-web-messaging-app/assets/46199675/ae8854fa-574d-497c-bb80-e3c823a3821b">
 
