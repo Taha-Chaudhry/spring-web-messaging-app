@@ -38,6 +38,7 @@ A sock.js and STOMP.js web chat app.
 ## Maven usage
 Alternatively, the app can be run with maven:
 ```
+# Runs on port 8080
     ./mvnw spring-boot:run
 ```
 
